@@ -1,8 +1,8 @@
 # TeleBot lessons
-Исходники с видео-роликов "Telegram Bot PYTHON". В этих исходниках переименованы некоторые переменные, например ~~client~~ -> *bot*\
+Исходники с видео-роликов ["Telegram Bot PYTHON"](https://www.youtube.com/watch?v=AlOBD8C9_yw&list=PLEYdORdflM3n_aCwefBODjapwsbmVfDA0). В этих исходниках переименованы некоторые переменные, например ~~client~~ -> *bot*\
 Если в исходниках присутствуют ошибки, прошу сообщить об этом
 
-__[YouTube канал автора](https://youtube.com/c/Фсоки)__
+__[YouTube канал автора](https://youtube.com/c/Фсоки)__\
 __[Группа Вконтакте](https://vk.com/fsoky)__
 
 ## Урок 1
